@@ -58,8 +58,3 @@ Prev. block:
 - 挖矿奖励固定，可以无限挖（未实现减半）
 
 - 可以自行编译，查看命令帮助
-
-# 参考
-[https://github.com/Jeiwan/blockchain_go](https://github.com/Jeiwan/blockchain_go)
-
-[https://github.com/liuchengxu/blockchain-tutorial/blob/master/SUMMARY.md](https://github.com/liuchengxu/blockchain-tutorial/blob/master/SUMMARY.md)
